@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TuneIn Todo List</string>
+    <string name="add_todo_item">Add todo</string>
+    <string name="save_item">Save</string>
+    <string name="toast_text">Todo item has been saved!</string>
+    <string name="show_all_items">Show all</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="edit_dialog_title">Edit Todo</string>
+</resources>
